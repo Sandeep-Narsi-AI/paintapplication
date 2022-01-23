@@ -1,2 +1,9 @@
-* {
+.maincontainer{
+    text-align: center;
+}
+body{
+    background-color: #66a3ff;
+}
+canvas{
+    background-color:#ffffcc;
 }
